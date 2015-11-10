@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Notifications</string>
+    <string name="boas_vindas">Notifications</string>
+    <string name="btn_set">Notifications</string>
+    <string name="ntf_titulo">Notifications</string>
+    <string name="ntf_texto">Notifications</string>
 </resources>
