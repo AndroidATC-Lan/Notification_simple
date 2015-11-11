@@ -4,4 +4,6 @@
     <string name="btn_set">Enviar</string>
     <string name="ntf_titulo">Importante</string>
     <string name="ntf_texto">Uma nova notificação</string>
+    <string name="txt_destino">Você chegou até aqui!</string>
+    <string name="txt_potato">Aqui está uma batata!</string>
 </resources>
